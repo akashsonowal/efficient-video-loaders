@@ -1,4 +1,4 @@
-# In videos, a single batch is a batch of frames not batch of videos.
+# In video dataloaders, a single batch is a batch of frames not batch of videos.
 
 # Video reader for single video
 
