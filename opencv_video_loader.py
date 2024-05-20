@@ -1,5 +1,7 @@
 # In video dataloaders, a single batch is a batch of frames not batch of videos.
 
+# Source: https://github.com/openai/Video-Pre-Training/tree/main
+
 # Video reader for single video
 
 # Video loader for many videos
